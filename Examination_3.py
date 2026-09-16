@@ -6,4 +6,6 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-password = input()
+input = password(String)
+Output:"Pass"หากตั้งรหัสผ่าน>8 or "Too Shor"<8
+pair:input(password(String))
