@@ -7,3 +7,8 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 color = input()
+input=("สัญญาณไฟจราจร")
+pair"Stop":(red)
+pair"Slow":(yelloW)
+pair"Go":(green)
+pair "Invalid":(กรณีอื่นๆ)
